@@ -1,4 +1,8 @@
-# OpenClaw-Companion: AI Girlfriend Mod
+# 💕 OpenClaw-Companion: AI Girlfriend Mod
+
+<div align="center">
+  <img src="assets/openclaw-girl.png" alt="OpenClaw-Companion" width="500">
+</div>
 
 > ⚠️ **Disclaimer:** This project is intended for users 18+. You are solely responsible for the content you generate and configure. Everything runs locally on your hardware.
 
