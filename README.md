@@ -50,7 +50,7 @@ Download the latest installer for your platform from the **[Releases](../../rele
 
 ### 🪟 Windows
 
-1. **Download** the `OpenClawGirlfriendMod_x64.7z` file.
+1. **Download** the `OpenClawGirl_x64.7z` file.
 2. **Run** the installer.
 3. Open **OpenClaw**.
 
